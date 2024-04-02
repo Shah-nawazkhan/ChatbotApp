@@ -1,7 +1,6 @@
 /* eslint-disable prettier/prettier */
 /* eslint-disable quotes */
 /* eslint-disable prettier/prettier */
-//ChatbotApp.js
 
 import React, { useState } from "react";
 import { GiftedChat } from "react-native-gifted-chat";
